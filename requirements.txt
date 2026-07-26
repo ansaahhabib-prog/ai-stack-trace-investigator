@@ -2,3 +2,4 @@ openai
 docker
 rich
 python-dotenv
+streamlit
